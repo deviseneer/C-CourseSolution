@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\C#CourseSolution\C#Course\bin\Release\net8.0\C#Course.exe
+C:\Users\user\source\repos\C#CourseSolution\C#Course\bin\Release\net8.0\C#Course.deps.json
+C:\Users\user\source\repos\C#CourseSolution\C#Course\bin\Release\net8.0\C#Course.runtimeconfig.json
+C:\Users\user\source\repos\C#CourseSolution\C#Course\bin\Release\net8.0\C#Course.dll
+C:\Users\user\source\repos\C#CourseSolution\C#Course\bin\Release\net8.0\C#Course.pdb
+C:\Users\user\source\repos\C#CourseSolution\C#Course\obj\Release\net8.0\C#Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\C#CourseSolution\C#Course\obj\Release\net8.0\C#Course.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\C#CourseSolution\C#Course\obj\Release\net8.0\C#Course.AssemblyInfo.cs
+C:\Users\user\source\repos\C#CourseSolution\C#Course\obj\Release\net8.0\C#Course.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#CourseSolution\C#Course\obj\Release\net8.0\C#Course.dll
+C:\Users\user\source\repos\C#CourseSolution\C#Course\obj\Release\net8.0\refint\C#Course.dll
+C:\Users\user\source\repos\C#CourseSolution\C#Course\obj\Release\net8.0\C#Course.pdb
+C:\Users\user\source\repos\C#CourseSolution\C#Course\obj\Release\net8.0\C#Course.genruntimeconfig.cache
+C:\Users\user\source\repos\C#CourseSolution\C#Course\obj\Release\net8.0\ref\C#Course.dll

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\bin\Debug\net8.0\D_OOP.exe
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\bin\Debug\net8.0\D_OOP.deps.json
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\bin\Debug\net8.0\D_OOP.runtimeconfig.json
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\bin\Debug\net8.0\D_OOP.dll
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\bin\Debug\net8.0\D_OOP.pdb
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\obj\Debug\net8.0\D_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\obj\Debug\net8.0\D_OOP.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\obj\Debug\net8.0\D_OOP.AssemblyInfo.cs
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\obj\Debug\net8.0\D_OOP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\obj\Debug\net8.0\D_OOP.dll
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\obj\Debug\net8.0\refint\D_OOP.dll
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\obj\Debug\net8.0\D_OOP.pdb
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\obj\Debug\net8.0\D_OOP.genruntimeconfig.cache
+C:\Users\user\source\repos\C#CourseSolution\D_OOP\obj\Debug\net8.0\ref\D_OOP.dll

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\bin\Debug\net8.0\B_ControlFlow.exe
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\bin\Debug\net8.0\B_ControlFlow.deps.json
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\bin\Debug\net8.0\B_ControlFlow.runtimeconfig.json
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\bin\Debug\net8.0\B_ControlFlow.dll
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\bin\Debug\net8.0\B_ControlFlow.pdb
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\obj\Debug\net8.0\B_ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\obj\Debug\net8.0\B_ControlFlow.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\obj\Debug\net8.0\B_ControlFlow.AssemblyInfo.cs
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\obj\Debug\net8.0\B_ControlFlow.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\obj\Debug\net8.0\B_ControlFlow.dll
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\obj\Debug\net8.0\refint\B_ControlFlow.dll
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\obj\Debug\net8.0\B_ControlFlow.pdb
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\obj\Debug\net8.0\B_ControlFlow.genruntimeconfig.cache
+C:\Users\user\source\repos\C#CourseSolution\B_ControlFlow\obj\Debug\net8.0\ref\B_ControlFlow.dll

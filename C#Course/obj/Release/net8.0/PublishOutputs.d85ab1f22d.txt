@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\C#CourseSolution\C#Course\bin\Release\net8.0\publish\C#Course.exe
+C:\Users\user\source\repos\C#CourseSolution\C#Course\bin\Release\net8.0\publish\C#Course.dll
+C:\Users\user\source\repos\C#CourseSolution\C#Course\bin\Release\net8.0\publish\C#Course.deps.json
+C:\Users\user\source\repos\C#CourseSolution\C#Course\bin\Release\net8.0\publish\C#Course.runtimeconfig.json
+C:\Users\user\source\repos\C#CourseSolution\C#Course\bin\Release\net8.0\publish\C#Course.pdb
